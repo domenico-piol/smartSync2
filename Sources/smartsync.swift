@@ -6,7 +6,7 @@ import Spinner
 import ColorizeSwift
 
 
-let version = "v2.0.0"
+let version = "v2.0.1"
 let appInfo = "SmartSync " + version
 var currentHost = Host.current().localizedName ?? ""
 let logfileName = "smartsync.log"
